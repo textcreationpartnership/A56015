@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal for remeeding [sic] our excessive luxury</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56015</idno>
+            <idno type="STC">Wing P3697</idno>
+            <idno type="STC">ESTC R218352</idno>
+            <idno type="EEBO-CITATION">99829955</idno>
+            <idno type="PROQUEST">99829955</idno>
+            <idno type="VID">34402</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56015)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34402)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2014:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal for remeeding [sic] our excessive luxury</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint conjectured by Wing.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life --  Early works to 1800.</term>
+               <term>Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:34402:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 28 -->
+            <head>A PROPOSAL For Remeeding our Exceſſive LUXURY<g ref="char:punc">▪</g>
+            </head>
+            <p>THE promoving of our Trade, and amending of our Coin, will not much increaſe our Stocks, untill we amend our Manners; For if Luxurie bring in more Goods than by our Native product and induſtrie we export; And conſequently if we ſend out more Money to Buy, then we bring in of Money for what we Sell, our Money at long run muſt fail, and by how much more Money is ſent out in Over Ballance to what's brought in; ſo much ſooner ſhall we be Exhauſted, and Trade with thoſe who take much money from as, and return little money to us, cannot make us Richer in money: And if the goods Bought by us, he ſuch as are bought with money, and not obtained by return of our export, and yet are conſumed with us; So as that we do not Im<g ref="char:EOLhyphen"/>prove them in ſuch manner, as either by ſending the Imported Goods out again, to ſome place which either for their Goods or their Effects, ſhall return us profite, then it's plain we become Poorer by Buying or Importing of ſuch Goods: But if we ſend out
+<pb n="2" facs="tcp:34402:2"/>
+               <!-- PDF PAGE 29 -->our Money to Buy Superfluities, that is to ſay Goods which are of no uſe, but what is Vain or Luxurious; That muſt be of all Trad<g ref="char:EOLhyphen"/>ing the moſt Hurtfull to us.</p>
+            <p n="1">
+               <hi>1mo.</hi> Therefore in the firſt and chief place, let Us by a ſolid well digeſted Sumptuary Law, prohibite the Wearing. Eating or Drinking of theſe Things which foſter Vanity and Luxury, yet ſo, as a moderate Uſe may be allowed even above Neceſſities and not to fall ſhort of Decency; taking this always along, that we are a Remote People, few Strangers come among us, and fewer yet of theſe, are very conſiderable in Quality or Knowledge; And amongſt our ſelves, what all will and uſe becomes (in that) Decent.</p>
+            <p n="2">
+               <hi>2do.</hi> That theſe things which are uſed only for Decency may not be imported, if they can be made at Home.</p>
+            <p n="3">
+               <hi>3tio.</hi> That ſuch ſuperfluous things as can be made at Home, and of Homebred Matterials may be allowed in Uſe; That ſo the Vain Rich Perſon may ſupport the poor one? For better it is to give Money to a poor one, for any kind of Work on Native Subject, than to give Money to them for Begging.</p>
+            <p n="4">
+               <hi>4to.</hi> That the Export of all Native Goods be encouraged, and all Encouragement given to Manufacture, even of Superfluous Goods.</p>
+            <p n="5">
+               <hi>5to.</hi> All this will be the more effectual, if the Nation come to a conſtant Faſhion in Cloathing, and that one be preſcribed with ſuteable Diſtinctions.</p>
+            <p>From theſe Premiſſes, theſe Corellaries offer themſelves.</p>
+            <p n="1">
+               <hi>1mo.</hi> That Trade to every Place in <hi>England</hi> is of Ad<g ref="char:EOLhyphen"/>vantage, <hi>London</hi> excepted; And principally, the <hi>Engliſh</hi> Cloaths and Stuffs<g ref="char:punc">▪</g> Stockings, Blankets, and indeed of all Woollen Work, except Flannen, is to be forbid.</p>
+            <pb n="3" facs="tcp:34402:2"/>
+            <!-- PDF PAGE 29 -->
+            <p n="2">
+               <hi>2do.</hi> That Trade with <hi>France</hi> is hurtful, Eſpecially if they allow not our Fiſh, Woollen Manufacture, and Coals to be im<g ref="char:EOLhyphen"/>ported to them.</p>
+            <p n="3">
+               <hi>3tio.</hi> That Trade with <hi>Spain</hi> is profitable.</p>
+            <p n="4">
+               <hi>4to.</hi> That all Import of all Silk Stuffs be prohibited.</p>
+            <p n="5">
+               <hi>5to.</hi> That all Silk Stuffs made in <hi>Scotland,</hi> be allowed, the like of Labes, Points, Frienges, Gloves, Shoes, Boots, Sadles, Matts, and all made Work of Iron or Wood, excepting An<g ref="char:EOLhyphen"/>chors, Cannon, Fuſies, Chimney-backs, Sawes.</p>
+            <p n="6">
+               <hi>6to.</hi> Since it would be of conſiderable Loſs for Perſons already pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vided, to caſt away their old Cloths, and of new to make others; That Tears be allowed for wearing what's now already mnde; And if needs be, That Inventars be made thereof, before ſome inferiour Judge in Burgh and Land, ſince ſecurity againſt making Cloths of new import, is of grtat import<g ref="char:EOLhyphen"/>ance.</p>
+            <p>And for the better furniſhing our ſelves with Clothing at home without Importing Woollen Cloth or Stuffs from Abroad, and for helping us to encreaſe or Export, thereby to advance our Na<g ref="char:EOLhyphen"/>tional Stock, and for recovering of the great loſs we have had, by the ſtarving of ſo many Thouſands during the late Dearth, who died for want of Food, and wanted Food for want of Work, and wanted Work for want of Wooll; By Exportation of Wooll theſe ſeveral years contrar to the Tenor of our good Laws, and the many Proclamations iſſued out conform thereto. That a Law may be paſt, which will effectually ſet a ſtop to the Expor<g ref="char:EOLhyphen"/>tation of <hi>Scots</hi> Wooll and Year<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of all kinds.</p>
+            <p>And ſince all the good Laws which have been made, or may be made in the Regulations for Export or Import for the Nations
+<pb n="4" facs="tcp:34402:3"/>
+               <!-- PDF PAGE 30 -->good are rendered illuſorie by the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ackſ-men and Farmers of the Cuſtoms; Who for their own profit ſuffer theſe Goods to be Imported, which are forbid to be imported, and do exact leſs Cuſtom and Excyſe than is impoſed by Law on theſe Species of Goods which are hurtful to the Nation; And thereby all our good Laws and deſigns of the Government for the good of the People are altogether fruſtrated, our Trade diverted to a wrong Channel, and the N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion Depauperat. It is pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poſed for remedy, that a Law be made, Inhibiting all Farming of Cuſtom and Excyſe, for the Future: And that a moderat inqui<g ref="char:EOLhyphen"/>ry be made into the bygone Tranſgreſſions, at leaſt ſince the Mo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th of</p>
+         </div>
+      </body>
+   </text>
+</TEI>
